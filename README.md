@@ -1,4 +1,4 @@
 cantina-auth-basic
 ==================
 
-Basic HTTP authentication for Cantina
+HTTP basic authentication for Cantina
